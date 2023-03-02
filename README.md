@@ -6,3 +6,7 @@ Use matrix and vector to make a 3D maze and it is my first 3D game.
 
 https://user-images.githubusercontent.com/76422688/222311837-1f27524d-b55d-4e75-b08d-17865338f1cc.mp4
 
+
+
+https://user-images.githubusercontent.com/76422688/222312737-e960e443-cb0e-4ce3-b90e-0c9d4d4a2051.mp4
+
